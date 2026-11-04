@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "LIFE OS — Жеке басқару жүйесі",
+  "short_name": "LIFE OS",
+  "description": "Әдеттер, жоспар, руханият, білім, қаржы және жеке даму.",
+  "lang": "kk",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1411",
+  "theme_color": "#101713",
+  "categories": [
+    "productivity",
+    "lifestyle",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
